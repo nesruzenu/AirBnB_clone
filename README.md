@@ -59,13 +59,7 @@ The project is built incrementally, mirroring how real production systems evolve
 |:-----:|-----------------------|-------------------------------------------------------------|
 | 0️⃣    | **Console**            | A command interpreter to manage app objects                 |
 | 1️⃣    | **Storage Engine**     | Serializes/deserializes objects to/from a JSON file          |
-| 2️⃣    | **Web Static**         | Hand-built HTML/CSS front-end mockups                        |
-| 3️⃣    | **MySQL Storage**      | Swaps the storage engine for a relational database           |
-| 4️⃣    | **Web Framework**      | Deploys a dynamic, templated front-end                       |
-| 5️⃣    | **REST API**           | Exposes all objects over a documented HTTP API                |
-| 6️⃣    | **Web Dynamic**        | Connects the front-end live to the API                       |
-
-<br/>
+| 
 
 ## 🧱 Architecture
 
