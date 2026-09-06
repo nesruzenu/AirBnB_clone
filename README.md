@@ -1,3 +1,30 @@
+<div align="center">
+
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AirBnB%20Clone&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Airbnb%20from%20the%20ground%20up%2C%20one%20layer%20at%20a%20time&descAlignY=58&descSize=18" width="100%"/>
+
+<!-- Typing animation -->
+<a href="https://github.com/nesruzenu/AirBnB_clone">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A83E&center=true&vCenter=true&width=600&lines=Command-line+console+%E2%86%92+Storage+engine;REST+API+%E2%86%92+Web+dynamic+front-end;A+full-stack+clone+of+Airbnb" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Badges -->
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+![PEP8](https://img.shields.io/badge/Code%20Style-PEP8-blueviolet?style=for-the-badge)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/nesruzenu/AirBnB_clone?style=flat-square&color=informational)
+![GitHub repo size](https://img.shields.io/github/repo-size/nesruzenu/AirBnB_clone?style=flat-square&color=success)
+![GitHub issues](https://img.shields.io/github/issues/nesruzenu/AirBnB_clone?style=flat-square&color=critical)
+![GitHub stars](https://img.shields.io/github/stars/nesruzenu/AirBnB_clone?style=flat-square&color=yellow)
+
+</div>
+
+<br/>
+
 # AirBnB Clone - The Console
 
 ## Description
