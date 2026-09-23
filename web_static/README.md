@@ -14,3 +14,15 @@ The first task creates an HTML page containing:
 - The footer positioned at the bottom of the page.
 
 The task uses inline CSS styling as required.
+
+##More filters
+a HTML page that displays a header, footer and a filters box.
+
+##It's (h)over
+HTML page that displays a header, footer and a filters box with dropdown.
+
+##Display results
+HTML page that displays a header, footer, a filters box with dropdown and results.
+
+##More details
+HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search.
